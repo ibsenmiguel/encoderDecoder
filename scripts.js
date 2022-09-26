@@ -62,3 +62,5 @@ btncopy.addEventListener("click", function() {
     navigator.clipboard.writeText(textRecorded);
     console.log(textRecorded)
 });
+
+console.log();
