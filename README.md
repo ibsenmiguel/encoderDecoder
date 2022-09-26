@@ -6,6 +6,6 @@
 
   -------------------------------------------------
 
-  Para acessar o projeto, basta clicar no link abaixo:
+  Para acessar o projeto, clique no link abaixo:
   
   https://ibsenmiguel.github.io/encoderDecoder/
